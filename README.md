@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![@angganarotama's Holopin board](https://holopin.io/api/user/board?user=angganarotama)](https://holopin.io/@angganarotama)
-
 <a href="https://www.learnenough.com/certificates/angganarotama"><img src="https://www.learnenough.com/certificates/angganarotama/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
